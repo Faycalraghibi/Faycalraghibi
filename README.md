@@ -4,18 +4,6 @@
 🎓 **Master’s in Data Science and Responsible AI** (IMT Nord Europe, Lille, France, 2025–2027)  
 💡 Passionate about **Artificial Intelligence**, **Cloud Computing**, and **Software Engineering**  
 
----
-
-## 🚀 About Me
-I’m an AI and Cloud enthusiast with hands-on experience in software engineering, deep learning, and applied research.  
-I enjoy building scalable AI systems and exploring the intersection between machine learning, cloud infrastructure, and automation.
-
-- 🔬 **Current Research**: AI-powered assistants with the Wayflow Python framework at Oracle  
-- ⚙️ **Recent Internship**: Arrow Electronics – API testing and network infrastructure optimization  
-- 📘 **Specialties**: LLM fine-tuning, anomaly detection, and generative AI applications  
-- 💭 Motto: *"Build systems that learn, adapt, and empower humans."*
-
----
 
 ## 🧩 Skills
 
@@ -25,7 +13,6 @@ I enjoy building scalable AI systems and exploring the intersection between mach
 **Databases:** Oracle Database, PostgreSQL, Firebase  
 **Cloud:** Oracle Cloud Infrastructure (OCI), AWS, GCP  
 
----
 
 ## 📚 Certifications
 - 🧠 [Deep Learning Specialization – Deeplearning.ai](https://coursera.org/share/9b233476b29053f4fd338253af9f4842)
@@ -33,7 +20,6 @@ I enjoy building scalable AI systems and exploring the intersection between mach
 - ☁️ [Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=3B141AC3E6D50806EA2AB3AAD7E9CA3965B27333D4DA31A8235B1DB1053DCAE0)
 - 💡 [Building Generative AI Skills for Developers – LinkedIn Learning](https://www.linkedin.com/learning)
 
----
 
 ## 💼 Experience
 
@@ -48,7 +34,6 @@ I enjoy building scalable AI systems and exploring the intersection between mach
 - Performed API testing for microservices with Postman and collaborated on debugging efforts.  
 - Supported IT operations by configuring 10+ Cisco routers and switches for network management.
 
----
 
 ## 💻 Selected Projects
 
@@ -64,16 +49,7 @@ Developed a two-stage defect detection pipeline with **92% accuracy** and reduce
 **Tech:** Next.js, Mistral 7B, Firebase, Hugging Face  
 Built a generative AI platform for **custom logo creation**, integrating Mistral 7B for prompt optimization.
 
----
 
-## 🌐 Extracurricular Activities
-
-### 💡 **AIAC IT Club — Data Cell Leader**
-- Trained 20 members on machine learning and data analysis  
-- Supervised 4 data-driven projects and organized 5 technical workshops  
-- Fostered collaboration and innovation within the student community  
-
----
 
 ## 📈 GitHub Analytics
 
@@ -81,7 +57,6 @@ Built a generative AI platform for **custom logo creation**, integrating Mistral
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faycalraghibi&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Faycalraghibi&theme=tokyonight)
 
----
 
 ## 🌍 Connect With Me
 
