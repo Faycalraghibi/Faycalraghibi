@@ -1,20 +1,95 @@
-<h1 align="center">Hi 👋, I'm Faycalraghibi</h1>
-<h3 align="center">A passionate AI/ML future engineer</h3>
+# 👋 Hi there, I'm Faycal Raghibi  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faycalraghibi&label=Profile%20views&color=0e75b6&style=flat" alt="faycalraghibi" /> </p>
+🎓 **Computer Science Student** at the *Académie Internationale Mohammed VI de l’Aviation Civile (AIAC)* in Casablanca, Morocco  
+🎓 **Master’s in Data Science and Responsible AI** (IMT Nord Europe, Lille, France, 2025–2027)  
+💡 Passionate about **Artificial Intelligence**, **Cloud Computing**, and **Software Engineering**  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faycalraghibi" alt="faycalraghibi" /></a> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/faycalraghibi.linn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faycalraghibi.linn" height="30" width="40" /></a>
-<a href="https://kaggle.com/faycalraghib.kagll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="faycalraghib.kagll" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/facycal...." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="facycal...." height="30" width="40" /></a>
-</p>
+## 🚀 About Me
+I’m an AI and Cloud enthusiast with hands-on experience in software engineering, deep learning, and applied research.  
+I enjoy building scalable AI systems and exploring the intersection between machine learning, cloud infrastructure, and automation.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- 🔬 **Current Research**: AI-powered assistants with the Wayflow Python framework at Oracle  
+- ⚙️ **Recent Internship**: Arrow Electronics – API testing and network infrastructure optimization  
+- 📘 **Specialties**: LLM fine-tuning, anomaly detection, and generative AI applications  
+- 💭 Motto: *"Build systems that learn, adapt, and empower humans."*
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faycalraghibi&show_icons=true&locale=en&layout=compact" alt="faycalraghibi" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faycalraghibi&show_icons=true&locale=en" alt="faycalraghibi" /></p>
+## 🧩 Skills
+
+**Programming:** Python, Java, C++, SQL, JavaScript, Bash  
+**Frameworks:** TensorFlow, PyTorch, Scikit-learn, FastAPI, Spring Boot, Next.js  
+**DevOps & Tools:** Docker, Kubernetes, Jenkins, GitHub Actions, Jira  
+**Databases:** Oracle Database, PostgreSQL, Firebase  
+**Cloud:** Oracle Cloud Infrastructure (OCI), AWS, GCP  
+
+---
+
+## 📚 Certifications
+- 🧠 [Deep Learning Specialization – Deeplearning.ai](https://coursera.org/share/9b233476b29053f4fd338253af9f4842)
+- 🤖 [Machine Learning Specialization – Stanford & Deeplearning.ai](https://coursera.org/share/7bec1b24b9a5026c86ed6fd36ba9c5aa)
+- ☁️ [Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=3B141AC3E6D50806EA2AB3AAD7E9CA3965B27333D4DA31A8235B1DB1053DCAE0)
+- 💡 [Building Generative AI Skills for Developers – LinkedIn Learning](https://www.linkedin.com/learning)
+
+---
+
+## 💼 Experience
+
+### 🧠 **Oracle — Research Assistant**  
+📍 Casablanca, Morocco | *July 2025 – Sept. 2025*  
+- Enhanced the open-source [Wayflow](https://pypi.org/project/wayflowcore/) framework by fixing 10+ bugs and implementing a core Flow feature.  
+- Authored 3 pages of documentation for Oracle Database integration, improving onboarding efficiency.  
+- Strengthened system reliability through end-to-end development and debugging of AI assistant components.
+
+### ⚙️ **Arrow Electronics — Intern Assistant**  
+📍 Casablanca, Morocco | *July 2024 – Aug. 2024*  
+- Performed API testing for microservices with Postman and collaborated on debugging efforts.  
+- Supported IT operations by configuring 10+ Cisco routers and switches for network management.
+
+---
+
+## 💻 Selected Projects
+
+### 🏛️ **Juridia Multilingual Legal Translation**
+**Tech:** Helsinki-NLP, Hugging Face, LoRA, Kaggle  
+Fine-tuned multilingual translation models for legal documents using LoRA optimization, achieving a BLEU score of **27**.
+
+### 🧠 **Industrial Anomaly Detection System**
+**Tech:** PyTorch, FastAPI, MVTec Dataset  
+Developed a two-stage defect detection pipeline with **92% accuracy** and reduced false positives by 15%.
+
+### 🎨 **LogoCraftAI**
+**Tech:** Next.js, Mistral 7B, Firebase, Hugging Face  
+Built a generative AI platform for **custom logo creation**, integrating Mistral 7B for prompt optimization.
+
+---
+
+## 🌐 Extracurricular Activities
+
+### 💡 **AIAC IT Club — Data Cell Leader**
+- Trained 20 members on machine learning and data analysis  
+- Supervised 4 data-driven projects and organized 5 technical workshops  
+- Fostered collaboration and innovation within the student community  
+
+---
+
+## 📈 GitHub Analytics
+
+![Faycal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faycalraghibi&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faycalraghibi&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Faycalraghibi&theme=tokyonight)
+
+---
+
+## 🌍 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faycal_Raghibi-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/faycal-raghibi)  
+[![Gmail](https://img.shields.io/badge/Email-faycalraghibi0%40gmail.com-red?style=flat-square&logo=gmail)](mailto:faycalraghibi0@gmail.com)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-Faycal_Raghibi-lightblue?style=flat-square&logo=kaggle)](https://www.kaggle.com/raghibifaycal)  
+[![GitHub](https://img.shields.io/badge/GitHub-Faycalraghibi-black?style=flat-square&logo=github)](https://github.com/Faycalraghibi)  
+
+---
+
+⭐ *"The best way to predict the future is to build it."*  
