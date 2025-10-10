@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Faycal Raghibi  
 
 🎓 **Computer Science Student** at the *Académie Internationale Mohammed VI de l’Aviation Civile (AIAC)* in Casablanca, Morocco  
-🎓 **Master’s in Data Science and Responsible AI** (IMT Nord Europe, Lille, France, 2025–2027)  
+🎓 **Engineering Degree in Data Science and Responsible AI** (IMT Nord Europe, Lille, France, 2025–2027)  
 💡 Passionate about **Artificial Intelligence**, **Cloud Computing**, and **Software Engineering**  
 
 
@@ -31,16 +31,13 @@
 
 ## 💻 Selected Projects
 
-### 🏛️ **Juridia Multilingual Legal Translation**
-**Tech:** Helsinki-NLP, Hugging Face, LoRA, Kaggle  
+### 🏛️ **Juridia Multilingual Legal Translation** | *Helsinki-NLP, Hugging Face, LoRA, Kaggle*
 Fine-tuned multilingual translation models for legal documents using LoRA optimization, achieving a BLEU score of **27**.
 
-### 🧠 **Industrial Anomaly Detection System**
-**Tech:** PyTorch, FastAPI, MVTec Dataset  
+### 🧠 **Industrial Anomaly Detection System** | *PyTorch, FastAPI, MVTec Dataset*
 Developed a two-stage defect detection pipeline with **92% accuracy** and reduced false positives by 15%.
 
-### 🎨 **LogoCraftAI**
-**Tech:** Next.js, Mistral 7B, Firebase, Hugging Face  
+### 🎨 **LogoCraftAI** | *Next.js, Mistral 7B, Firebase, Hugging Face*
 Built a generative AI platform for **custom logo creation**, integrating Mistral 7B for prompt optimization.
 
 
@@ -59,6 +56,5 @@ Built a generative AI platform for **custom logo creation**, integrating Mistral
 [![Kaggle](https://img.shields.io/badge/Kaggle-Faycal_Raghibi-lightblue?style=flat-square&logo=kaggle)](https://www.kaggle.com/raghibifaycal)  
 [![GitHub](https://img.shields.io/badge/GitHub-Faycalraghibi-black?style=flat-square&logo=github)](https://github.com/Faycalraghibi)  
 
----
 
 ⭐ *"The best way to predict the future is to build it."*  
