@@ -11,7 +11,7 @@
 **Frameworks:** TensorFlow, PyTorch, Scikit-learn, FastAPI, Spring Boot, Next.js  
 **DevOps & Tools:** Docker, Kubernetes, Jenkins, GitHub Actions, Jira  
 **Databases:** Oracle Database, PostgreSQL, Firebase  
-**Cloud:** Oracle Cloud Infrastructure (OCI), AWS, GCP  
+**Cloud:** Oracle Cloud Infrastructure, AWS
 
 
 ## 📚 Certifications
@@ -25,15 +25,9 @@
 
 ### 🧠 **Oracle — Research Assistant**  
 📍 Casablanca, Morocco | *July 2025 – Sept. 2025*  
-- Enhanced the open-source [Wayflow](https://pypi.org/project/wayflowcore/) framework by fixing 10+ bugs and implementing a core Flow feature.  
-- Authored 3 pages of documentation for Oracle Database integration, improving onboarding efficiency.  
-- Strengthened system reliability through end-to-end development and debugging of AI assistant components.
 
 ### ⚙️ **Arrow Electronics — Intern Assistant**  
 📍 Casablanca, Morocco | *July 2024 – Aug. 2024*  
-- Performed API testing for microservices with Postman and collaborated on debugging efforts.  
-- Supported IT operations by configuring 10+ Cisco routers and switches for network management.
-
 
 ## 💻 Selected Projects
 
