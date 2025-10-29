@@ -14,13 +14,6 @@
 **Cloud:** Oracle Cloud Infrastructure, AWS
 
 
-## 📚 Certifications
-- 🧠 [Deep Learning Specialization – Deeplearning.ai](https://coursera.org/share/9b233476b29053f4fd338253af9f4842)
-- 🤖 [Machine Learning Specialization – Stanford & Deeplearning.ai](https://coursera.org/share/7bec1b24b9a5026c86ed6fd36ba9c5aa)
-- ☁️ [Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=3B141AC3E6D50806EA2AB3AAD7E9CA3965B27333D4DA31A8235B1DB1053DCAE0)
-- 💡 [Building Generative AI Skills for Developers – LinkedIn Learning](https://www.linkedin.com/learning)
-
-
 ## 💼 Experience
 
 ### 🧠 **Oracle — Research Assistant**  
@@ -28,19 +21,6 @@
 
 ### ⚙️ **Arrow Electronics — Intern Assistant**  
 📍 Casablanca, Morocco | *July 2024 – Aug. 2024*  
-
-## 💻 Selected Projects
-
-### 🏛️ **Juridia Multilingual Legal Translation** | *Helsinki-NLP, Hugging Face, LoRA, Kaggle*
-Fine-tuned multilingual translation models for legal documents using LoRA optimization, achieving a BLEU score of **27**.
-
-### 🧠 **Industrial Anomaly Detection System** | *PyTorch, FastAPI, MVTec Dataset*
-Developed a two-stage defect detection pipeline with **92% accuracy** and reduced false positives by 15%.
-
-### 🎨 **LogoCraftAI** | *Next.js, Mistral 7B, Firebase, Hugging Face*
-Built a generative AI platform for **custom logo creation**, integrating Mistral 7B for prompt optimization.
-
-
 
 ## 📈 GitHub Analytics
 
