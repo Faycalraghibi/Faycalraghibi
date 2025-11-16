@@ -19,7 +19,7 @@
 ### **Oracle — Research Assistant**  
 Casablanca, Morocco | *July 2025 – Sept. 2025*  
 
-### **Arrow Electronics — Intern Assistant**  
+### **Arrow Electronics — Technical Intern**  
 Casablanca, Morocco | *July 2024 – Aug. 2024*  
 
 ## GitHub Analytics
