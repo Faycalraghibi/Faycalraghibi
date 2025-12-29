@@ -30,18 +30,6 @@ Oracle Database · PostgreSQL
 **Cloud**  
 Oracle Cloud Infrastructure (OCI) · AWS  
 
----
-
-## 💼 Experience
-
-### **Oracle — Research Assistant**  
-*Casablanca, Morocco | Jul. 2025 – Sept. 2025*
----
-
-### **Arrow Electronics — Technical Intern**  
-*Casablanca, Morocco | Jul. 2024 – Aug. 2024*
----
-
 ## 🚀 Selected Projects
 
 ### **Joshu — LLM Orchestration CLI**
@@ -84,9 +72,10 @@ Kaggle competition dedicated to fine-tuning translation models for multilingual 
 
 ## 📊 GitHub Analytics
 
-![Faycal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faycalraghibi&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faycalraghibi&layout=compact&theme=tokyonight)
+![Faycal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faycalraghibi&show_icons=true&theme=tokyonight) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faycalraghibi&layout=compact&theme=tokyonight) 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Faycalraghibi&theme=tokyonight)
+## GitHub Analytics 
 
 ---
 
