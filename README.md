@@ -8,8 +8,6 @@ Académie Internationale Mohammed VI de l’Aviation Civile (AIAC), Casablanca �
 
 💡 Passionate about **AI Systems**, **LLMs & Agentic AI**, **Cloud Infrastructure**, and **Software Engineering**
 
----
-
 ## 🛠️ Skills
 
 **Programming**  
@@ -75,9 +73,7 @@ Kaggle competition dedicated to fine-tuning translation models for multilingual 
 ![Faycal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faycalraghibi&show_icons=true&theme=tokyonight) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faycalraghibi&layout=compact&theme=tokyonight) 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Faycalraghibi&theme=tokyonight)
-## GitHub Analytics 
 
----
 
 ## 🌍 Connect With Me
 
