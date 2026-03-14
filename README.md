@@ -14,13 +14,13 @@ Académie Internationale Mohammed VI de l’Aviation Civile (AIAC), Casablanca �
 Python · Java · C++ · SQL · JavaScript · Bash  
 
 **AI / ML**  
-PyTorch · TensorFlow · Scikit-learn · MLflow · LLM Fine-Tuning · LoRA  
+PyTorch · TensorFlow · Scikit-learn · MLflow · LLM Fine-Tuning · LoRA · LangGraph · WayFlow · Power BI
 
 **Frameworks & Backend**  
 FastAPI · Spring Boot · React · Next.js  
 
 **DevOps & MLOps**  
-Docker / Colima · Kubernetes · Jenkins · GitHub Actions · CI/CD  
+Docker / Colima · Kubernetes · Jenkins · GitHub Actions · CI/CD Git · Spark · Jira/Confluence.
 
 **Databases**  
 Oracle Database · PostgreSQL  
