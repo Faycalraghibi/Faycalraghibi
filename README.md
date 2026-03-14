@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Faycal Raghibi
 
 🎓 **Engineering Degree in Data Science & Responsible AI**  
-IMT Nord Europe, Lille, France — *2025–2027*
+IMT Nord Europe, Lille, France, *2025–2027*
 
 🎓 **State Engineering Degree in Computer Engineering**  
 Académie Internationale Mohammed VI de l’Aviation Civile (AIAC), Casablanca — *2023–2027*
@@ -28,8 +28,6 @@ Oracle Database · PostgreSQL
 **Cloud**  
 Oracle Cloud Infrastructure (OCI) · AWS  
 
-
----
 
 ## 📊 GitHub Analytics
 
