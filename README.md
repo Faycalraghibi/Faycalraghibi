@@ -28,43 +28,6 @@ Oracle Database · PostgreSQL
 **Cloud**  
 Oracle Cloud Infrastructure (OCI) · AWS  
 
-## 🚀 Selected Projects
-
-### **Joshu — LLM Orchestration CLI**
-🔗 https://github.com/Faycalraghibi/Joshu  
-
-A command-line tool for orchestrating local LLMs and MCP servers with reproducible inference workflows.
-
-**Tech Stack:** Python · GitHub Actions  
-
-- Unified interface to route and manage local language models  
-- Supports tool execution and sandboxed inference  
-- CI pipelines validating model routing, CLI behavior, and reproducibility  
-
----
-
-### **Logo Craft AI — AI Logo Generation Platform**
-🔗 https://github.com/Faycalraghibi/logo-craft-ai  
-
-A full-stack application for AI-powered logo generation using modern generative models.
-
-**Tech Stack:** Next.js · Mistral · Hugging Face · Firebase  
-
-- Prompt-driven logo generation workflow  
-- Clean and responsive user interface  
-- End-to-end pipeline from prompt optimization to image synthesis  
-
----
-
-### **LLM Juridia — Multilingual Legal Translation**
-🔗 https://github.com/Faycalraghibi/llmjuridiatranslation  
-🔗 https://www.kaggle.com/competitions/juridia-hackhaton-fine-tuning-translation-model-v/overview  
-
-Kaggle competition dedicated to fine-tuning translation models for multilingual legal documents.
-
-- Fine-tuned sequence-to-sequence models on legal corpora  
-- Benchmarked performance using BLEU against baseline models  
-- Focused on parameter-efficient fine-tuning strategies  
 
 ---
 
